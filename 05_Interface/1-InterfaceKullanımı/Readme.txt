@@ -1,0 +1,10 @@
+Interface Nedir?
+Interface içinde sadece kendisinden türeyen sýnýflarýn içini doldurmak zorunda olduðu içi boþ metod tanýmlarýnýn yapýldýðý bir yapýdýr. Kýsacasý kendisini kullanacak sýnýflar için bir yerine getirmeleri gereken metodlarý belirten bir kontrat gibidir. 
+
+Interface’ler de Abstract sýnýflar gibi new ile oluþturulamazlar
+Interface içerisine sadece boþ method’lar tanýmlanabilir.
+public static final deðiþkenler dýþýnda herhangi bir deðiþken bulunduramazlar
+Bir sýnýf birden fazla interface’den türeyebilir.
+
+NOT: Demo klasöründe interface ile ilgili bir örnek uygulama mevcuttur.
+

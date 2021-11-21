@@ -1,0 +1,1 @@
+# Bu projede Config yönteminde sınıflar üzerinden bean oluşturma projesi gerçekleştirilmiştir.
